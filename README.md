@@ -1,6 +1,6 @@
 ### Hello there 
 
-2. Year Math student, living in Norway
+3. Year Math student, living in Norway
 
 -  I’m currently working on: Algo-using Ada-Boost for risk-mangement
 -  I’m currently learning: Pyhton, R and some C++(for HFD)
